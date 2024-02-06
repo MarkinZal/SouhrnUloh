@@ -1,0 +1,4 @@
+Monopoly;koupeno;3
+Dixit;nekoupeno;1
+Karak;koupeno;2
+Dungeons and Dragons;nekoupeno;3
